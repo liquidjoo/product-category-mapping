@@ -1,0 +1,107 @@
+{
+  "OUTER": {
+    "패딩/점퍼": {
+      "google_product_category": "5598",
+      "product_type":"Home > Women > Outerwear > Coats & jackets[홈 > 여성 > 아우터 > 코트&자켓]"
+    },
+    "코트/자켓": {
+      "google_product_category": "5598",
+      "product_type":"Home > Women > Outerwear > Coats & jackets[홈 > 여성 > 아우터 > 코트&자켓]"
+    },
+    "가디건": {
+      "google_product_category": "1831",
+      "product_type":"Home > Women > Outerwear > Gardigan[홈 > 여성 > 아우터 > 가디건]"
+    },
+    "조끼": {
+      "google_product_category": "1831",
+      "product_type":"Home > Women > Outerwear > Vests[홈 > 여성 > 아우터 > 조끼]"
+    }
+  },
+  "TOP": {
+    "티셔츠": {
+      "google_product_category": "212",
+      "product_type":"Home > Women > Tops > Tshirts[홈 > 여성 > 상의 > 티셔츠]"
+    },
+    "블라우스/셔츠":{
+      "google_product_category": "212",
+      "product_type":"Home > Women > Tops > Shirts[홈 > 여성 > 상의 > 블라우스/셔츠]"
+    },
+    "니트": {
+      "google_product_category": "212",
+      "product_type":"Home > Women > Tops > Knit[홈 > 여성 > 상의 > 니트]"
+    },
+    "나시": {
+      "google_product_category": "212",
+      "product_type":"Home > Women > Tops > Tshirts[홈 > 여성 > 상의 > 티셔츠]"
+    }
+  },
+  "PANTS": {
+    "슬랙스": {
+      "google_product_category": "204",
+      "product_type":"Home > Women > Pants > Slacks[홈 > 여성 > 하의 > 슬랙스]"
+    },
+    "데님": {
+      "google_product_category": "204",
+      "product_type":"Home > Women > Pants > Denim[홈 > 여성 > 하의 > 데님]"
+    },
+    "팬츠": {
+      "google_product_category": "204",
+      "product_type":"Home > Women > Pants[홈 > 여성 > 하의]"
+    },
+    "반바지": {
+      "google_product_category": "204",
+      "product_type":"Home > Women > Pants > Shorts[홈 > 여성 > 하의 > 반바지]"
+    }
+  },
+  "OPS & SKIRT": {
+    "무지ops": {
+      "google_product_category": "5182",
+      "product_type":"Home > Women > Pants > One-Pieces[홈 > 여성 > 원피스]"
+    },
+    "나염ops": {
+      "google_product_category": "5182",
+      "product_type":"Home > Women > Pants > One-Pieces[홈 > 여성 > 원피스]"
+    },
+    "데님ops": {
+      "google_product_category": "5182",
+      "product_type":"Home > Women > Pants > One-Pieces[홈 > 여성 > 원피스]"
+    },
+    "니트ops": {
+      "google_product_category": "5182",
+      "product_type":"Home > Women > Pants > One-Pieces[홈 > 여성 > 원피스]"
+    },
+    "스커트": {
+      "google_product_category": "1581",
+      "product_type":"Home > Women > Pants > Skirts[홈 > 여성 > 하의 > 스커트]"
+    }
+  },
+  "KNIT&CARDIGAN": {
+    "keyword": "가디건",
+    "상의": {
+      "google_product_category": "212",
+      "product_type":"Home > Women > Knit&Gardigan > Tops[홈 > 여성 > 니트&가디건 > 상의]"
+    },
+    "가디건": {
+      "google_product_category": "212",
+      "product_type":"Home > Women > Knit&Gardigan > Cardigan[홈 > 여성 > 니트&가디건 > 가디건]"
+    },
+    "조끼": {
+      "google_product_category": "1831",
+      "product_type":"Home > Women > Knit&Gardigan > Vets[홈 > 여성 > 니트&가디건 > 조끼]"
+    },
+    "원피스&스커트": {
+      "google_product_category": "5182",
+      "product_type":"Home > Women > Knit&Gardigan > One-Pieces[홈 > 여성 > 니트&가디건 > 원피스]"
+    },
+    "ETC": {
+      "google_product_category": "212",
+      "product_type":"Home > Women > Knit&Gardigan[홈 > 여성 > 니트&가디건]"
+    }
+  },
+  "플러스사이즈": {
+
+  },
+  "휴양지 ITEM": {
+
+  }
+}
